@@ -1,0 +1,44 @@
+@page
+@model InternetClub.RazorPages.Pages.Clients.IndexModel
+
+@{
+    ViewData["Title"] = "Клиенты";
+}
+
+<h1>Клиенты</h1>
+
+<p>
+    <a asp-page="Create">Добавить</a>
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Фамилия</th>
+        <th>Имя</th>
+        <th>Телефон</th>
+        <th>Email</th>
+        <th>Дата</th>
+        <th>Баланс</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Clients)
+    {
+        <tr>
+            <td>@Html.DisplayFor(_ => item.LastName)</td>
+            <td>@Html.DisplayFor(_ => item.FirstName)</td>
+            <td>@Html.DisplayFor(_ => item.Phone)</td>
+            <td>@Html.DisplayFor(_ => item.Email)</td>
+            <td>@DateInt.Format(item.RegistrationDate)</td>
+            <td>@Html.DisplayFor(_ => item.Balance)</td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Подробнее</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

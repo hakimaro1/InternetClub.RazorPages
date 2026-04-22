@@ -1,0 +1,28 @@
+@page
+@model InternetClub.RazorPages.Pages.Visits.DeleteModel
+
+@{
+    ViewData["Title"] = "Удаление посещения";
+}
+
+<h1>Удаление посещения</h1>
+
+<div class="alert alert-warning">
+    Вы уверены, что хотите удалить это посещение?
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Клиент</dt>
+    <dd class="col-sm-9">@($"{Model.Visit.Client?.LastName} {Model.Visit.Client?.FirstName}")</dd>
+    <dt class="col-sm-3">Услуга</dt>
+    <dd class="col-sm-9">@Model.Visit.Service?.Title</dd>
+    <dt class="col-sm-3">Сотрудник</dt>
+    <dd class="col-sm-9">@Model.Visit.Stuff?.FullName</dd>
+</dl>
+
+<form method="post">
+    <input type="hidden" asp-for="Visit.Id" />
+    <button type="submit" class="btn btn-danger">Удалить</button>
+    <a asp-page="./Index" class="btn btn-secondary">Отмена</a>
+</form>
+

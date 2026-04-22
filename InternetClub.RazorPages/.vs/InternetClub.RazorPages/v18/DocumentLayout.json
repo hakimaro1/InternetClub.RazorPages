@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\stuff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\stuff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\models\\stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:models\\stuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\services\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\data\\internetclubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:data\\internetclubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\services\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\services\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\services\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\services\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\services\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|c:\\users\\sanya\\desktop\\asp\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\internetclub.razorpages\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40833FFB-C4A5-4F96-72D6-9D177E6DAD05}|InternetClub.RazorPages.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:23.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:27.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T07:08:17.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:47:19.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stuff.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Stuff.cs",
+              "RelativeDocumentMoniker": "Models\\Stuff.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Stuff.cs",
+              "RelativeToolTip": "Models\\Stuff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:49:08.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-21T08:05:13.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Models\\Visit.cs",
+              "RelativeToolTip": "Models\\Visit.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:49:49.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:14.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Clients\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:10:59.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T07:08:03.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:56:29.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Stuff\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Stuff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Stuff\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Stuff\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T17:21:51.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:17.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Clients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Clients\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Clients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:15.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Services\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Services\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T08:04:47.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Services\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Services\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T08:04:54.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-21T08:05:19.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAALQDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-21T08:05:28.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-21T08:05:31.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-21T08:05:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-21T08:05:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:58:31.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InternetClubContext.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Data\\InternetClubContext.cs",
+              "RelativeDocumentMoniker": "Data\\InternetClubContext.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Data\\InternetClubContext.cs",
+              "RelativeToolTip": "Data\\InternetClubContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T08:05:36.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Services\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Services\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T08:04:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Services\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Services\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T08:04:40.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Services\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Services\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Services\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T08:04:33.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:25.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\ASP\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\\InternetClub.RazorPages\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T06:58:21.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

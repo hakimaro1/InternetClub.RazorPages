@@ -1,0 +1,58 @@
+@page
+@model InternetClub.RazorPages.Pages.Visits.CreateModel
+
+@{
+    ViewData["Title"] = "Добавление посещения";
+}
+
+<h1>Добавление посещения</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="mb-3">
+                <label asp-for="Visit.ClientId" class="form-label"></label>
+                <select asp-for="Visit.ClientId" asp-items="Model.Options.Clients" class="form-select"></select>
+                <span asp-validation-for="Visit.ClientId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Visit.ServiceId" class="form-label"></label>
+                <select asp-for="Visit.ServiceId" asp-items="Model.Options.Services" class="form-select"></select>
+                <span asp-validation-for="Visit.ServiceId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Visit.StuffId" class="form-label"></label>
+                <select asp-for="Visit.StuffId" asp-items="Model.Options.Stuff" class="form-select"></select>
+                <span asp-validation-for="Visit.StuffId" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Visit.StartDateTime" class="form-label"></label>
+                <input asp-for="Visit.StartDateTime" class="form-control" type="time" />
+                <span asp-validation-for="Visit.StartDateTime" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Visit.Duration" class="form-label"></label>
+                <input asp-for="Visit.Duration" class="form-control" />
+                <span asp-validation-for="Visit.Duration" class="text-danger"></span>
+            </div>
+
+            <div class="alert alert-info">
+                Итоговая сумма будет рассчитана автоматически из стоимости услуги и длительности.
+            </div>
+
+            <button type="submit" class="btn btn-primary">Добавить</button>
+            <a asp-page="Index" class="btn btn-secondary">Назад</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

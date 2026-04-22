@@ -1,0 +1,34 @@
+@page
+@model InternetClub.RazorPages.Pages.Visits.DetailsModel
+
+@{
+    ViewData["Title"] = "Детали посещения";
+}
+
+<h1>Детали посещения</h1>
+
+<dl class="row">
+    <dt class="col-sm-3">Клиент</dt>
+    <dd class="col-sm-9">@($"{Model.Visit.Client?.LastName} {Model.Visit.Client?.FirstName}")</dd>
+
+    <dt class="col-sm-3">Услуга</dt>
+    <dd class="col-sm-9">@Model.Visit.Service?.Title</dd>
+
+    <dt class="col-sm-3">Сотрудник</dt>
+    <dd class="col-sm-9">@Model.Visit.Stuff?.FullName</dd>
+
+    <dt class="col-sm-3">Время начала</dt>
+    <dd class="col-sm-9">@Model.Visit.StartDateTime</dd>
+
+    <dt class="col-sm-3">Длительность</dt>
+    <dd class="col-sm-9">@Model.Visit.Duration</dd>
+
+    <dt class="col-sm-3">Итоговая сумма</dt>
+    <dd class="col-sm-9">@Model.Visit.TotalPrice</dd>
+</dl>
+
+<div class="mb-3">
+    <a asp-page="./Edit" asp-route-id="@Model.Visit.Id" class="btn btn-primary">Редактировать</a>
+    <a asp-page="./Index" class="btn btn-secondary">Назад</a>
+</div>
+

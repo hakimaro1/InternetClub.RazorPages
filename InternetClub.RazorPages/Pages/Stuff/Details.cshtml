@@ -1,0 +1,22 @@
+@page
+@model InternetClub.RazorPages.Pages.Stuff.DetailsModel
+
+@{
+    ViewData["Title"] = "Детали сотрудника";
+}
+
+<h1>Детали сотрудника</h1>
+
+<dl class="row">
+    <dt class="col-sm-3">ФИО</dt>
+    <dd class="col-sm-9">@Model.Stuff.FullName</dd>
+
+    <dt class="col-sm-3">Табельный номер</dt>
+    <dd class="col-sm-9">@Model.Stuff.Enum</dd>
+</dl>
+
+<div class="mb-3">
+    <a asp-page="./Edit" asp-route-id="@Model.Stuff.Id" class="btn btn-primary">Редактировать</a>
+    <a asp-page="./Index" class="btn btn-secondary">Назад</a>
+</div>
+

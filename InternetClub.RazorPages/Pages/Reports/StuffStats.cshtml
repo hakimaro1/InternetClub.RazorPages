@@ -1,0 +1,31 @@
+@page
+@model InternetClub.RazorPages.Pages.Reports.StuffStatsModel
+
+@{
+    ViewData["Title"] = "Статистика посещений по сотрудникам";
+}
+
+<h1>Статистика посещений по сотрудникам</h1>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Сотрудник</th>
+        <th>Количество посещений</th>
+        <th>Выручка</th>
+        <th>Средняя длительность (мин)</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var row in Model.Rows)
+    {
+        <tr>
+            <td>@row.StuffFullName</td>
+            <td>@row.VisitsCount</td>
+            <td>@row.TotalRevenue</td>
+            <td>@row.AverageDurationMinutes</td>
+        </tr>
+    }
+    </tbody>
+</table>
+

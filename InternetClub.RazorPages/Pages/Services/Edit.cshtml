@@ -1,0 +1,37 @@
+@page
+@model InternetClub.RazorPages.Pages.Services.EditModel
+
+@{
+    ViewData["Title"] = "Редактирование услуги";
+}
+
+<h1>Редактирование услуги</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Service.Id" />
+
+            <div class="mb-3">
+                <label asp-for="Service.Title" class="form-label"></label>
+                <input asp-for="Service.Title" class="form-control" />
+                <span asp-validation-for="Service.Title" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Service.PriceMinutes" class="form-label"></label>
+                <input asp-for="Service.PriceMinutes" class="form-control" />
+                <span asp-validation-for="Service.PriceMinutes" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Сохранить</button>
+            <a asp-page="Index" class="btn btn-secondary">Назад</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

@@ -1,0 +1,24 @@
+@page
+@model InternetClub.RazorPages.Pages.Services.DeleteModel
+
+@{
+    ViewData["Title"] = "Удаление услуги";
+}
+
+<h1>Удаление услуги</h1>
+
+<div class="alert alert-warning">
+    Вы уверены, что хотите удалить эту услугу?
+</div>
+
+<dl class="row">
+    <dt class="col-sm-3">Название</dt>
+    <dd class="col-sm-9">@Model.Service.Title</dd>
+</dl>
+
+<form method="post">
+    <input type="hidden" asp-for="Service.Id" />
+    <button type="submit" class="btn btn-danger">Удалить</button>
+    <a asp-page="./Index" class="btn btn-secondary">Отмена</a>
+</form>
+

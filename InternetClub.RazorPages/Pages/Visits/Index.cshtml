@@ -1,0 +1,57 @@
+@page
+@model InternetClub.RazorPages.Pages.Visits.IndexModel
+
+@{
+    ViewData["Title"] = "Посещения";
+}
+
+<h1>Посещения</h1>
+
+<p>
+    <a asp-page="Create">Добавить</a>
+</p>
+
+<form class="row g-2 mb-3" method="get">
+    <div class="col-sm-6 col-md-4">
+        <input class="form-control" type="text" asp-for="Search" placeholder="Поиск (клиент/услуга/сотрудник)" />
+    </div>
+    <div class="col-auto">
+        <button class="btn btn-outline-primary" type="submit">Фильтр</button>
+        <a class="btn btn-outline-secondary" asp-page="./Index">Сброс</a>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>Id</th>
+        <th>Клиент</th>
+        <th>Услуга</th>
+        <th>Сотрудник</th>
+        <th>Начало</th>
+        <th>Длительность</th>
+        <th>Итого</th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Visits)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@(item.Client == null ? "" : $"{item.Client.LastName} {item.Client.FirstName}")</td>
+            <td>@item.Service?.Title</td>
+            <td>@item.Stuff?.FullName</td>
+            <td>@item.StartDateTime</td>
+            <td>@item.Duration</td>
+            <td>@item.TotalPrice</td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Редактировать</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Подробнее</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+

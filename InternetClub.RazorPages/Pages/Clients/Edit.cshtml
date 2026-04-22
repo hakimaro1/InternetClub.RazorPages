@@ -1,0 +1,60 @@
+@page
+@model InternetClub.RazorPages.Pages.Clients.EditModel
+
+@{
+    ViewData["Title"] = "Редактирование клиента";
+}
+
+<h1>Редактирование клиента</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Client.Id" />
+
+            <div class="mb-3">
+                <label asp-for="Client.LastName" class="form-label"></label>
+                <input asp-for="Client.LastName" class="form-control" />
+                <span asp-validation-for="Client.LastName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Client.FirstName" class="form-label"></label>
+                <input asp-for="Client.FirstName" class="form-control" />
+                <span asp-validation-for="Client.FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Client.Phone" class="form-label"></label>
+                <input asp-for="Client.Phone" class="form-control" />
+                <span asp-validation-for="Client.Phone" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Client.Email" class="form-label"></label>
+                <input asp-for="Client.Email" class="form-control" />
+                <span asp-validation-for="Client.Email" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="RegistrationDateText" class="form-label"></label>
+                <input asp-for="RegistrationDateText" class="form-control" inputmode="numeric" placeholder="дд.ММ.гггг" data-date-mask="ru-date" autocomplete="off" />
+                <span asp-validation-for="RegistrationDateText" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Client.Balance" class="form-label"></label>
+                <input asp-for="Client.Balance" class="form-control" />
+                <span asp-validation-for="Client.Balance" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Сохранить</button>
+            <a asp-page="Index" class="btn btn-secondary">Назад</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
