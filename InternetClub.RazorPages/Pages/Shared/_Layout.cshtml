@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html lang="ru">
+<html lang="@System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="~/InternetClub.RazorPages.styles.css" asp-append-version="true" />
 </head>
 <body>
+    @{
+        var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+        var returnUrl = Context.Request.Path + Context.Request.QueryString;
+    }
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
@@ -21,27 +25,33 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Главная</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">@(isRu ? "Главная" : "Home")</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Clients/Index">Клиенты</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Clients/Index">@(isRu ? "Клиенты" : "Clients")</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Services/Index">Услуги</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Services/Index">@(isRu ? "Услуги" : "Services")</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Stuff/Index">Сотрудники</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Stuff/Index">@(isRu ? "Сотрудники" : "Staff")</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Visits/Index">Посещения</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Visits/Index">@(isRu ? "Посещения" : "Visits")</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Reports/StuffStats">Отчёт</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Reports/StuffStats">@(isRu ? "Отчёт" : "Report")</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Конфиденциальность</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">@(isRu ? "Конфиденциальность" : "Privacy")</a>
                         </li>
                     </ul>
+
+                    <form class="d-flex" method="post" action="/set-culture">
+                        <input type="hidden" name="returnUrl" value="@returnUrl" />
+                        <button class="btn btn-sm @(isRu ? "btn-primary" : "btn-outline-primary") me-2" type="submit" name="culture" value="ru-RU">RU</button>
+                        <button class="btn btn-sm @(!isRu ? "btn-primary" : "btn-outline-primary")" type="submit" name="culture" value="en-US">EN</button>
+                    </form>
                 </div>
             </div>
         </nav>
@@ -54,7 +64,7 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2026 - InternetClub.RazorPages - <a asp-area="" asp-page="/Privacy">Конфиденциальность</a>
+            &copy; 2026 - InternetClub.RazorPages - <a asp-area="" asp-page="/Privacy">@(isRu ? "Конфиденциальность" : "Privacy")</a>
         </div>
     </footer>
 

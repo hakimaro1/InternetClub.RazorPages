@@ -2,20 +2,21 @@
 @model InternetClub.RazorPages.Pages.Stuff.IndexModel
 
 @{
-    ViewData["Title"] = "Сотрудники";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Сотрудники" : "Staff";
 }
 
-<h1>Сотрудники</h1>
+<h1>@(isRu ? "Сотрудники" : "Staff")</h1>
 
 <p>
-    <a asp-page="Create">Добавить</a>
+    <a asp-page="Create">@(isRu ? "Добавить" : "Create")</a>
 </p>
 
 <table class="table">
     <thead>
     <tr>
-        <th>ФИО</th>
-        <th>Табельный номер</th>
+        <th>@(isRu ? "ФИО" : "Full name")</th>
+        <th>@(isRu ? "Табельный номер" : "Employee No.")</th>
         <th></th>
     </tr>
     </thead>
@@ -26,9 +27,9 @@
             <td>@item.FullName</td>
             <td>@item.Enum</td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Редактировать</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Подробнее</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Удалить</a>
+                <a asp-page="./Edit" asp-route-id="@item.Id">@(isRu ? "Редактировать" : "Edit")</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">@(isRu ? "Подробнее" : "Details")</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">@(isRu ? "Удалить" : "Delete")</a>
             </td>
         </tr>
     }

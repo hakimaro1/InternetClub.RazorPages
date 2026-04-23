@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9L0GaHpTAlI=",
+  "dgSpecHash": "oFtbgyodiGc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanya\\Desktop\\ASP\\готовые задания\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj",
+  "projectFilePath": "C:\\InternetClub.RazorPages\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanya\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sanya\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

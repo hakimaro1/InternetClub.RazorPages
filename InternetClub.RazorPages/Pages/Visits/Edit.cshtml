@@ -2,10 +2,11 @@
 @model InternetClub.RazorPages.Pages.Visits.EditModel
 
 @{
-    ViewData["Title"] = "Редактирование посещения";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Редактирование посещения" : "Edit visit";
 }
 
-<h1>Редактирование посещения</h1>
+<h1>@(isRu ? "Редактирование посещения" : "Edit visit")</h1>
 
 <div class="row">
     <div class="col-md-6">
@@ -44,11 +45,11 @@
             </div>
 
             <div class="alert alert-info">
-                Итоговая сумма будет пересчитана автоматически.
+                @(isRu ? "Итоговая сумма будет пересчитана автоматически." : "Total price will be recalculated automatically.")
             </div>
 
-            <button type="submit" class="btn btn-primary">Сохранить</button>
-            <a asp-page="Index" class="btn btn-secondary">Назад</a>
+            <button type="submit" class="btn btn-primary">@(isRu ? "Сохранить" : "Save")</button>
+            <a asp-page="Index" class="btn btn-secondary">@(isRu ? "Назад" : "Back")</a>
         </form>
     </div>
 </div>

@@ -2,22 +2,23 @@
 @model InternetClub.RazorPages.Pages.Visits.IndexModel
 
 @{
-    ViewData["Title"] = "Посещения";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Посещения" : "Visits";
 }
 
-<h1>Посещения</h1>
+<h1>@(isRu ? "Посещения" : "Visits")</h1>
 
 <p>
-    <a asp-page="Create">Добавить</a>
+    <a asp-page="Create">@(isRu ? "Добавить" : "Create")</a>
 </p>
 
 <form class="row g-2 mb-3" method="get">
     <div class="col-sm-6 col-md-4">
-        <input class="form-control" type="text" asp-for="Search" placeholder="Поиск (клиент/услуга/сотрудник)" />
+        <input class="form-control" type="text" asp-for="Search" placeholder="@(isRu ? "Поиск (клиент/услуга/сотрудник)" : "Search (client/service/staff)")" />
     </div>
     <div class="col-auto">
-        <button class="btn btn-outline-primary" type="submit">Фильтр</button>
-        <a class="btn btn-outline-secondary" asp-page="./Index">Сброс</a>
+        <button class="btn btn-outline-primary" type="submit">@(isRu ? "Фильтр" : "Filter")</button>
+        <a class="btn btn-outline-secondary" asp-page="./Index">@(isRu ? "Сброс" : "Reset")</a>
     </div>
 </form>
 
@@ -25,12 +26,12 @@
     <thead>
     <tr>
         <th>Id</th>
-        <th>Клиент</th>
-        <th>Услуга</th>
-        <th>Сотрудник</th>
-        <th>Начало</th>
-        <th>Длительность</th>
-        <th>Итого</th>
+        <th>@(isRu ? "Клиент" : "Client")</th>
+        <th>@(isRu ? "Услуга" : "Service")</th>
+        <th>@(isRu ? "Сотрудник" : "Staff")</th>
+        <th>@(isRu ? "Начало" : "Start")</th>
+        <th>@(isRu ? "Длительность" : "Duration")</th>
+        <th>@(isRu ? "Итого" : "Total")</th>
         <th></th>
     </tr>
     </thead>
@@ -46,9 +47,9 @@
             <td>@item.Duration</td>
             <td>@item.TotalPrice</td>
             <td>
-                <a asp-page="./Edit" asp-route-id="@item.Id">Редактировать</a> |
-                <a asp-page="./Details" asp-route-id="@item.Id">Подробнее</a> |
-                <a asp-page="./Delete" asp-route-id="@item.Id">Удалить</a>
+                <a asp-page="./Edit" asp-route-id="@item.Id">@(isRu ? "Редактировать" : "Edit")</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">@(isRu ? "Подробнее" : "Details")</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">@(isRu ? "Удалить" : "Delete")</a>
             </td>
         </tr>
     }

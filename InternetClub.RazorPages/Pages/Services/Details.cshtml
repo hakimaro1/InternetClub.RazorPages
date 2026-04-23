@@ -2,21 +2,22 @@
 @model InternetClub.RazorPages.Pages.Services.DetailsModel
 
 @{
-    ViewData["Title"] = "Детали услуги";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Детали услуги" : "Service details";
 }
 
-<h1>Детали услуги</h1>
+<h1>@(isRu ? "Детали услуги" : "Service details")</h1>
 
 <dl class="row">
-    <dt class="col-sm-3">Название</dt>
+    <dt class="col-sm-3">@(isRu ? "Название" : "Title")</dt>
     <dd class="col-sm-9">@Model.Service.Title</dd>
 
-    <dt class="col-sm-3">Цена за минуту</dt>
+    <dt class="col-sm-3">@(isRu ? "Цена за минуту" : "Price per minute")</dt>
     <dd class="col-sm-9">@Model.Service.PriceMinutes</dd>
 </dl>
 
 <div class="mb-3">
-    <a asp-page="./Edit" asp-route-id="@Model.Service.Id" class="btn btn-primary">Редактировать</a>
-    <a asp-page="./Index" class="btn btn-secondary">Назад</a>
+    <a asp-page="./Edit" asp-route-id="@Model.Service.Id" class="btn btn-primary">@(isRu ? "Редактировать" : "Edit")</a>
+    <a asp-page="./Index" class="btn btn-secondary">@(isRu ? "Назад" : "Back")</a>
 </div>
 

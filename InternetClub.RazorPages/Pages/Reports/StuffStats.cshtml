@@ -2,18 +2,19 @@
 @model InternetClub.RazorPages.Pages.Reports.StuffStatsModel
 
 @{
-    ViewData["Title"] = "Статистика посещений по сотрудникам";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Статистика посещений по сотрудникам" : "Staff visit stats";
 }
 
-<h1>Статистика посещений по сотрудникам</h1>
+<h1>@(isRu ? "Статистика посещений по сотрудникам" : "Staff visit stats")</h1>
 
 <table class="table table-striped">
     <thead>
     <tr>
-        <th>Сотрудник</th>
-        <th>Количество посещений</th>
-        <th>Выручка</th>
-        <th>Средняя длительность (мин)</th>
+        <th>@(isRu ? "Сотрудник" : "Staff")</th>
+        <th>@(isRu ? "Количество посещений" : "Visits count")</th>
+        <th>@(isRu ? "Выручка" : "Total revenue")</th>
+        <th>@(isRu ? "Средняя длительность (мин)" : "Avg duration (min)")</th>
     </tr>
     </thead>
     <tbody>

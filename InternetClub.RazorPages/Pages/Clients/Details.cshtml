@@ -2,32 +2,33 @@
 @model InternetClub.RazorPages.Pages.Clients.DetailsModel
 
 @{
-    ViewData["Title"] = "Детали клиента";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Детали клиента" : "Client details";
 }
 
-<h1>Детали клиента</h1>
+<h1>@(isRu ? "Детали клиента" : "Client details")</h1>
 
 <dl class="row">
-    <dt class="col-sm-3">Фамилия</dt>
+    <dt class="col-sm-3">@(isRu ? "Фамилия" : "Last name")</dt>
     <dd class="col-sm-9">@Model.Client.LastName</dd>
 
-    <dt class="col-sm-3">Имя</dt>
+    <dt class="col-sm-3">@(isRu ? "Имя" : "First name")</dt>
     <dd class="col-sm-9">@Model.Client.FirstName</dd>
 
-    <dt class="col-sm-3">Телефон</dt>
+    <dt class="col-sm-3">@(isRu ? "Телефон" : "Phone")</dt>
     <dd class="col-sm-9">@Model.Client.Phone</dd>
 
     <dt class="col-sm-3">Email</dt>
     <dd class="col-sm-9">@Model.Client.Email</dd>
 
-    <dt class="col-sm-3">Дата регистрации</dt>
-    <dd class="col-sm-9">@DateInt.Format(Model.Client.RegistrationDate)</dd>
+    <dt class="col-sm-3">@(isRu ? "Дата регистрации" : "Registration date")</dt>
+    <dd class="col-sm-9">@Model.Client.RegistrationDate</dd>
 
-    <dt class="col-sm-3">Баланс</dt>
+    <dt class="col-sm-3">@(isRu ? "Баланс" : "Balance")</dt>
     <dd class="col-sm-9">@Model.Client.Balance</dd>
 </dl>
 
 <div class="mb-3">
-    <a asp-page="./Edit" asp-route-id="@Model.Client.Id" class="btn btn-primary">Редактировать</a>
-    <a asp-page="./Index" class="btn btn-secondary">Назад</a>
+    <a asp-page="./Edit" asp-route-id="@Model.Client.Id" class="btn btn-primary">@(isRu ? "Редактировать" : "Edit")</a>
+    <a asp-page="./Index" class="btn btn-secondary">@(isRu ? "Назад" : "Back")</a>
 </div>

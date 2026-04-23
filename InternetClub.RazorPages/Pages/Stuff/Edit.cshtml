@@ -2,10 +2,11 @@
 @model InternetClub.RazorPages.Pages.Stuff.EditModel
 
 @{
-    ViewData["Title"] = "Редактирование сотрудника";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Редактирование сотрудника" : "Edit staff";
 }
 
-<h1>Редактирование сотрудника</h1>
+<h1>@(isRu ? "Редактирование сотрудника" : "Edit staff")</h1>
 
 <div class="row">
     <div class="col-md-6">
@@ -25,8 +26,8 @@
                 <span asp-validation-for="Stuff.Enum" class="text-danger"></span>
             </div>
 
-            <button type="submit" class="btn btn-primary">Сохранить</button>
-            <a asp-page="Index" class="btn btn-secondary">Назад</a>
+            <button type="submit" class="btn btn-primary">@(isRu ? "Сохранить" : "Save")</button>
+            <a asp-page="Index" class="btn btn-secondary">@(isRu ? "Назад" : "Back")</a>
         </form>
     </div>
 </div>

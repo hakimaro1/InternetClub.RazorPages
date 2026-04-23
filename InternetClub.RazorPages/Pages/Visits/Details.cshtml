@@ -2,33 +2,34 @@
 @model InternetClub.RazorPages.Pages.Visits.DetailsModel
 
 @{
-    ViewData["Title"] = "Детали посещения";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Детали посещения" : "Visit details";
 }
 
-<h1>Детали посещения</h1>
+<h1>@(isRu ? "Детали посещения" : "Visit details")</h1>
 
 <dl class="row">
-    <dt class="col-sm-3">Клиент</dt>
+    <dt class="col-sm-3">@(isRu ? "Клиент" : "Client")</dt>
     <dd class="col-sm-9">@($"{Model.Visit.Client?.LastName} {Model.Visit.Client?.FirstName}")</dd>
 
-    <dt class="col-sm-3">Услуга</dt>
+    <dt class="col-sm-3">@(isRu ? "Услуга" : "Service")</dt>
     <dd class="col-sm-9">@Model.Visit.Service?.Title</dd>
 
-    <dt class="col-sm-3">Сотрудник</dt>
+    <dt class="col-sm-3">@(isRu ? "Сотрудник" : "Staff")</dt>
     <dd class="col-sm-9">@Model.Visit.Stuff?.FullName</dd>
 
-    <dt class="col-sm-3">Время начала</dt>
+    <dt class="col-sm-3">@(isRu ? "Время начала" : "Start time")</dt>
     <dd class="col-sm-9">@Model.Visit.StartDateTime</dd>
 
-    <dt class="col-sm-3">Длительность</dt>
+    <dt class="col-sm-3">@(isRu ? "Длительность" : "Duration")</dt>
     <dd class="col-sm-9">@Model.Visit.Duration</dd>
 
-    <dt class="col-sm-3">Итоговая сумма</dt>
+    <dt class="col-sm-3">@(isRu ? "Итоговая сумма" : "Total price")</dt>
     <dd class="col-sm-9">@Model.Visit.TotalPrice</dd>
 </dl>
 
 <div class="mb-3">
-    <a asp-page="./Edit" asp-route-id="@Model.Visit.Id" class="btn btn-primary">Редактировать</a>
-    <a asp-page="./Index" class="btn btn-secondary">Назад</a>
+    <a asp-page="./Edit" asp-route-id="@Model.Visit.Id" class="btn btn-primary">@(isRu ? "Редактировать" : "Edit")</a>
+    <a asp-page="./Index" class="btn btn-secondary">@(isRu ? "Назад" : "Back")</a>
 </div>
 

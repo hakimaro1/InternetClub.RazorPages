@@ -2,10 +2,11 @@
 @model InternetClub.RazorPages.Pages.Clients.CreateModel
 
 @{
-    ViewData["Title"] = "Добавление клиента";
+    var isRu = System.Globalization.CultureInfo.CurrentUICulture.TwoLetterISOLanguageName == "ru";
+    ViewData["Title"] = isRu ? "Добавление клиента" : "Create client";
 }
 
-<h1>Добавление клиента</h1>
+<h1>@(isRu ? "Добавление клиента" : "Create client")</h1>
 
 <div class="row">
     <div class="col-md-6">
@@ -37,9 +38,9 @@
             </div>
 
             <div class="mb-3">
-                <label asp-for="RegistrationDateText" class="form-label"></label>
-                <input asp-for="RegistrationDateText" class="form-control" inputmode="numeric" placeholder="дд.ММ.гггг" data-date-mask="ru-date" autocomplete="off" />
-                <span asp-validation-for="RegistrationDateText" class="text-danger"></span>
+                <label asp-for="Client.RegistrationDate" class="form-label"></label>
+                <input asp-for="Client.RegistrationDate" class="form-control" />
+                <span asp-validation-for="Client.RegistrationDate" class="text-danger"></span>
             </div>
 
             <div class="mb-3">
@@ -48,8 +49,8 @@
                 <span asp-validation-for="Client.Balance" class="text-danger"></span>
             </div>
 
-            <button type="submit" class="btn btn-primary">Добавить</button>
-            <a asp-page="Index" class="btn btn-secondary">Назад</a>
+            <button type="submit" class="btn btn-primary">@(isRu ? "Добавить" : "Create")</button>
+            <a asp-page="Index" class="btn btn-secondary">@(isRu ? "Назад" : "Back")</a>
         </form>
     </div>
 </div>

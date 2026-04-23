@@ -187,192 +187,193 @@ C:\Users\sanya\Desktop\InternetClub.RazorPages\obj\Debug\net10.0\ref\InternetClu
 C:\Users\sanya\Desktop\InternetClub.RazorPages\bin\Debug\net10.0\Npgsql.dll
 C:\Users\sanya\Desktop\InternetClub.RazorPages\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\sanya\Desktop\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.csproj.AssemblyReference.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.AssemblyInfoInputs.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.AssemblyInfo.cs
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.csproj.CoreCompileInputs.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.RazorAssemblyInfo.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.RazorAssemblyInfo.cs
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\refint\InternetClub.RazorPages.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.pdb
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\appsettings.Development.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\appsettings.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.staticwebassets.endpoints.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.staticwebassets.runtime.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.exe
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.deps.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.runtimeconfig.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.pdb
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Humanizer.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.Build.Framework.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Mono.TextTemplating.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Newtonsoft.Json.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Npgsql.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\System.CodeDom.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.AttributedModel.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.Convention.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.Hosting.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.Runtime.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.TypedParts.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\rjimswa.dswa.cache.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\scopedcss\bundle\InternetClub.RazorPages.styles.css
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\scopedcss\projectbundle\InternetClub.RazorPages.bundle.scp.css
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ofc0gg6kwj-{0}-b9sayid5wm-b9sayid5wm.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\aqtumrpm36-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\3trjl7zicz-{0}-bqjiyaj88i-bqjiyaj88i.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\rm0wratrjf-{0}-c2jlpeoesf-c2jlpeoesf.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\qlikavj640-{0}-erw9l3u2r3-erw9l3u2r3.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\6yv02271iw-{0}-aexeepp0ev-aexeepp0ev.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\zzne7xithh-{0}-d7shbmvgxk-d7shbmvgxk.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\b7fokadk9b-{0}-ausgxo2sd3-ausgxo2sd3.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\kp2z8irb4g-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xob5ev0dz5-{0}-cosvhxvwiu-cosvhxvwiu.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\3mov0ed5hs-{0}-ub07r2b239-ub07r2b239.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\7533n5vs3u-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\wy99njxwoo-{0}-b7pk76d08c-b7pk76d08c.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\a1g3s65mdv-{0}-fsbi9cje9m-fsbi9cje9m.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\enswi1dmva-{0}-rzd6atqjts-rzd6atqjts.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\5v64jlyyko-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\nik7qcfezf-{0}-dxx9fxp4il-dxx9fxp4il.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\7yo3h6y9wu-{0}-jd9uben2k1-jd9uben2k1.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\8p1yq668of-{0}-khv3u5hwcm-khv3u5hwcm.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ddzmavztrg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\rq95ljhzcn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\5m414gks4x-{0}-c2oey78nd0-c2oey78nd0.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\woe4buvswx-{0}-tdbxkamptv-tdbxkamptv.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ni5zeq3pld-{0}-j5mq2jizvt-j5mq2jizvt.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\8rec077f8u-{0}-06098lyss8-06098lyss8.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\4fiptum6qm-{0}-nvvlpmu67g-nvvlpmu67g.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\5coakbczje-{0}-s35ty4nyc5-s35ty4nyc5.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\745xpfasz6-{0}-pj5nd1wqec-pj5nd1wqec.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\afkvvzsiu2-{0}-46ein0sx1k-46ein0sx1k.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\gjiwpsfc2y-{0}-v0zj4ognzu-v0zj4ognzu.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\bgxka7r2ki-{0}-37tfw0ft22-37tfw0ft22.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\1dkb853ftk-{0}-hrwsygsryq-hrwsygsryq.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xnzhajts1a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\g0oy1ou90p-{0}-ft3s53vfgj-ft3s53vfgj.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\a23c8m6fvw-{0}-6cfz1n2cew-6cfz1n2cew.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\vw8y3y19zd-{0}-6pdc2jztkx-6pdc2jztkx.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\w0aczozju2-{0}-493y06b0oq-493y06b0oq.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\r1ce9n8bsa-{0}-iovd86k7lj-iovd86k7lj.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\wfhatackaz-{0}-vr1egmr9el-vr1egmr9el.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ejovp3v8wj-{0}-kbrnm935zg-kbrnm935zg.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\giwe0pcfb2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\eyovepnzw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xvxqe6n8l1-{0}-notf2xhcfb-notf2xhcfb.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\f4ystiewx4-{0}-h1s4sie4z3-h1s4sie4z3.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\3696ck4pej-{0}-63fj8s7r0e-63fj8s7r0e.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\j8lt3dwp5l-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\vhk0vqexzl-{0}-47otxtyo56-47otxtyo56.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ykb18sj29i-{0}-4v8eqarkd7-4v8eqarkd7.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\rx3selz989-{0}-356vix0kms-356vix0kms.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\9tib3wlplb-{0}-83jwlth58m-83jwlth58m.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\nmeoln2kju-{0}-mrlpezrjn3-mrlpezrjn3.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\h52oejugts-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\noavaroc7o-{0}-ag7o75518u-ag7o75518u.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\n5lkhsn392-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xpc2b2urf1-{0}-0i3buxo5is-0i3buxo5is.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\55yuwwa3ly-{0}-o1o13a6vjx-o1o13a6vjx.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\bds8dksny8-{0}-ttgo8qnofa-ttgo8qnofa.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\1l2ovux4xh-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\fm5x6wuu1e-{0}-muycvpuwrr-muycvpuwrr.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\65uv24nzzv-{0}-87fc7y1x7t-87fc7y1x7t.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\67ytm4kpze-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\b7bv6cglyc-{0}-d8bal4u5zq-d8bal4u5zq.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\i6v05rq8s2-{0}-d8bal4u5zq-d8bal4u5zq.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.build.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.build.json.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.development.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\Internet.A6B40334.Up2Date
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.genruntimeconfig.cache
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\ref\InternetClub.RazorPages.dll
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\compressed\qsnve7kweq-{0}-h7des31rhx-h7des31rhx.gz
-C:\Users\sanya\Desktop\ASP\готовые задания\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\appsettings.Development.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.staticwebassets.endpoints.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\appsettings.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.staticwebassets.runtime.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.exe
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.deps.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.runtimeconfig.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\InternetClub.RazorPages.pdb
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Humanizer.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Npgsql.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\System.CodeDom.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.csproj.AssemblyReference.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.AssemblyInfoInputs.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.AssemblyInfo.cs
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.csproj.CoreCompileInputs.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.MvcApplicationPartsAssemblyInfo.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.RazorAssemblyInfo.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.RazorAssemblyInfo.cs
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.sourcelink.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\scopedcss\bundle\InternetClub.RazorPages.styles.css
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\scopedcss\projectbundle\InternetClub.RazorPages.bundle.scp.css
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ofc0gg6kwj-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\aqtumrpm36-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\qsnve7kweq-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\3trjl7zicz-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\rm0wratrjf-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\qlikavj640-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\6yv02271iw-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\zzne7xithh-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\b7fokadk9b-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\kp2z8irb4g-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xob5ev0dz5-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\3mov0ed5hs-{0}-ub07r2b239-ub07r2b239.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\7533n5vs3u-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\wy99njxwoo-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\a1g3s65mdv-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\enswi1dmva-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\5v64jlyyko-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\nik7qcfezf-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\7yo3h6y9wu-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\8p1yq668of-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ddzmavztrg-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\rq95ljhzcn-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\5m414gks4x-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\woe4buvswx-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ni5zeq3pld-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\8rec077f8u-{0}-06098lyss8-06098lyss8.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\4fiptum6qm-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\5coakbczje-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\745xpfasz6-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\afkvvzsiu2-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\gjiwpsfc2y-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\bgxka7r2ki-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\1dkb853ftk-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xnzhajts1a-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\g0oy1ou90p-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\a23c8m6fvw-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\vw8y3y19zd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\w0aczozju2-{0}-493y06b0oq-493y06b0oq.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\r1ce9n8bsa-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\wfhatackaz-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ejovp3v8wj-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\giwe0pcfb2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\eyovepnzw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xvxqe6n8l1-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\f4ystiewx4-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\3696ck4pej-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\j8lt3dwp5l-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\vhk0vqexzl-{0}-47otxtyo56-47otxtyo56.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\ykb18sj29i-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\rx3selz989-{0}-356vix0kms-356vix0kms.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\9tib3wlplb-{0}-83jwlth58m-83jwlth58m.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\nmeoln2kju-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\h52oejugts-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\noavaroc7o-{0}-ag7o75518u-ag7o75518u.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\n5lkhsn392-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\xpc2b2urf1-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\55yuwwa3ly-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\bds8dksny8-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\1l2ovux4xh-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\fm5x6wuu1e-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\65uv24nzzv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\67ytm4kpze-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\b7bv6cglyc-{0}-d8bal4u5zq-d8bal4u5zq.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\compressed\i6v05rq8s2-{0}-d8bal4u5zq-d8bal4u5zq.gz
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.build.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.development.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\swae.build.ex.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\Internet.A6B40334.Up2Date
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\refint\InternetClub.RazorPages.dll
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.pdb
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\InternetClub.RazorPages.genruntimeconfig.cache
+C:\InternetClub.RazorPages\InternetClub.RazorPages\obj\Debug\net10.0\ref\InternetClub.RazorPages.dll
