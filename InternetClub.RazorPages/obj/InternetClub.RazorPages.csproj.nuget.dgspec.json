@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\InternetClub.RazorPages\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj": {}
+    "C:\\Users\\sanya\\Desktop\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj": {}
   },
   "projects": {
-    "C:\\InternetClub.RazorPages\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj": {
+    "C:\\Users\\sanya\\Desktop\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\InternetClub.RazorPages\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj",
+        "projectUniqueName": "C:\\Users\\sanya\\Desktop\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj",
         "projectName": "InternetClub.RazorPages",
-        "projectPath": "C:\\InternetClub.RazorPages\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj",
+        "projectPath": "C:\\Users\\sanya\\Desktop\\InternetClub.RazorPages\\InternetClub.RazorPages.csproj",
         "packagesPath": "C:\\Users\\sanya\\.nuget\\packages\\",
-        "outputPath": "C:\\InternetClub.RazorPages\\InternetClub.RazorPages\\obj\\",
+        "outputPath": "C:\\Users\\sanya\\Desktop\\InternetClub.RazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

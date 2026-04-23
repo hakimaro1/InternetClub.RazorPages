@@ -22,7 +22,7 @@
 
             <div class="mb-3">
                 <label asp-for="Service.PriceMinutes" class="form-label"></label>
-                <input asp-for="Service.PriceMinutes" class="form-control" />
+                <input asp-for="Service.PriceMinutes" class="form-control" type="number" step="0.01" min="0.01" inputmode="decimal" />
                 <span asp-validation-for="Service.PriceMinutes" class="text-danger"></span>
             </div>
 

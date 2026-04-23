@@ -32,7 +32,7 @@
             <td>@Html.DisplayFor(_ => item.FirstName)</td>
             <td>@Html.DisplayFor(_ => item.Phone)</td>
             <td>@Html.DisplayFor(_ => item.Email)</td>
-            <td>@Html.DisplayFor(_ => item.RegistrationDate)</td>
+            <td>@item.RegistrationDate.ToString("dd.MM.yyyy")</td>
             <td>@Html.DisplayFor(_ => item.Balance)</td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.Id">@(isRu ? "Редактировать" : "Edit")</a> |

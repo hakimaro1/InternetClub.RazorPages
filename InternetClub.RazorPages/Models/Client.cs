@@ -21,7 +21,9 @@ public class Client
     public string? Email { get; set; }
 
     [Display(Name = "Дата регистрации")]
-    public int RegistrationDate { get; set; }
+    [DataType(DataType.Date)]
+    [DisplayFormat(DataFormatString = "{0:dd.MM.yyyy}")]
+    public DateOnly RegistrationDate { get; set; }
 
     [Range(0, 1_000_000)]
     public decimal Balance { get; set; }

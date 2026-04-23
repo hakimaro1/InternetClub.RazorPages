@@ -22,7 +22,7 @@
     <dd class="col-sm-9">@Model.Client.Email</dd>
 
     <dt class="col-sm-3">@(isRu ? "Дата регистрации" : "Registration date")</dt>
-    <dd class="col-sm-9">@Model.Client.RegistrationDate</dd>
+    <dd class="col-sm-9">@Model.Client.RegistrationDate.ToString("dd.MM.yyyy")</dd>
 
     <dt class="col-sm-3">@(isRu ? "Баланс" : "Balance")</dt>
     <dd class="col-sm-9">@Model.Client.Balance</dd>

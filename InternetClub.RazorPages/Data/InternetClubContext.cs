@@ -16,6 +16,18 @@ public class InternetClubContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Client>()
+            .Property(c => c.Balance)
+            .HasPrecision(18, 2);
+
+        modelBuilder.Entity<Service>()
+            .Property(s => s.PriceMinutes)
+            .HasPrecision(18, 2);
+
+        modelBuilder.Entity<Visit>()
+            .Property(v => v.TotalPrice)
+            .HasPrecision(18, 2);
+
         modelBuilder.Entity<Visit>(entity =>
         {
             entity.HasOne(v => v.Client)

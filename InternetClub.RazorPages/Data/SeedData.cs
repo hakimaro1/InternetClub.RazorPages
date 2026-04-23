@@ -19,7 +19,7 @@ public static class SeedData
                 FirstName = "Иван",
                 Phone = "+7 900 000-00-01",
                 Email = "ivanov@example.com",
-                RegistrationDate = 20260401,
+                RegistrationDate = new DateOnly(2026, 4, 1),
                 Balance = 500.00m
             },
             new Client
@@ -28,7 +28,7 @@ public static class SeedData
                 FirstName = "Анна",
                 Phone = "+7 900 000-00-02",
                 Email = "petrova@example.com",
-                RegistrationDate = 20260405,
+                RegistrationDate = new DateOnly(2026, 4, 5),
                 Balance = 250.00m
             }
         };
